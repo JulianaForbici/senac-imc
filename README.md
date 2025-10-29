@@ -38,15 +38,21 @@ Antes de rodar o projeto localmente, instale:
 Opção A — Usando o servidor embutido do PHP (recomendado para testes rápidos)
 1. Abra o terminal na pasta raiz do projeto (onde está o arquivo index.php).
 2. Execute:
+   ```bash
    php -S localhost:8000
+   ```
 3. Acesse no navegador:
+   ```
    http://localhost:8000
+   ```
 
 Opção B — Usando XAMPP/WAMP/MAMP
-1. Copie a pasta do projeto para a pasta `www` (XAMPP) ou `htdocs` conforme sua instalação.
+1. Copie a pasta do projeto para a pasta `htdocs` (XAMPP) ou `www` (WAMP/MAMP) conforme sua instalação.
 2. Inicie o Apache pelo painel do XAMPP/WAMP/MAMP.
 3. Acesse no navegador:
+   ```
    http://localhost/<nome-da-pasta-do-projeto>/
+   ```
 
 ---
 
