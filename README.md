@@ -47,7 +47,7 @@ Opção A — Usando o servidor embutido do PHP (recomendado para testes rápido
    ```
 
 Opção B — Usando XAMPP/WAMP/MAMP
-1. Copie a pasta do projeto para a pasta `htdocs` (XAMPP) ou `www` (WAMP/MAMP) conforme sua instalação.
+1. Copie a pasta do projeto para a pasta `htdocs` (XAMPP/MAMP) ou `www` (WAMP) conforme sua instalação.
 2. Inicie o Apache pelo painel do XAMPP/WAMP/MAMP.
 3. Acesse no navegador:
    ```
